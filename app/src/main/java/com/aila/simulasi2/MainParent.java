@@ -6,8 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.aila.simulasi2.Auth.Login;
-import com.aila.simulasi2.Auth.Registrasi;
+import com.aila.simulasi2.auth.Login;
+import com.aila.simulasi2.auth.Registrasi;
 
 public class MainParent extends AppCompatActivity {
 

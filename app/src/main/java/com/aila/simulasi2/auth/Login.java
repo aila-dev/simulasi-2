@@ -1,4 +1,4 @@
-package com.aila.simulasi2.Auth;
+package com.aila.simulasi2.auth;
 
 import androidx.appcompat.app.AppCompatActivity;
 
