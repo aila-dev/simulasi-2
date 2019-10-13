@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806430688104",
+    "firebase_url": "https://simulasi-2.firebaseio.com",
+    "project_id": "simulasi-2",
+    "storage_bucket": "simulasi-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806430688104:android:3131092f022f20bee1ccdd",
+        "android_client_info": {
+          "package_name": "com.aila.simulasi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806430688104-danmpmabd8uai7j4h7eef92vpipr0mql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aila.simulasi2",
+            "certificate_hash": "aa0fe5519a2e91e3f4e76a3c5a2e56f40ad15470"
+          }
+        },
+        {
+          "client_id": "806430688104-seedh4ail8oifdnok9s2uu3v88nk6b1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqU3txUEb2ko5Q_jPNWRIoKLwSL8fFeAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806430688104-seedh4ail8oifdnok9s2uu3v88nk6b1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
