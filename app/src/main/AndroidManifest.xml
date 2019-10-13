@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".inspector.Inspector"></activity>
+        <activity android:name=".MainParent"></activity>
+        <activity android:name=".Auth.Registrasi" />
+        <activity android:name=".Auth.Login" />
+        <activity android:name=".inspector.Inspector" />
         <activity android:name=".parentcare.ParentCare" />
         <activity android:name=".schedule.Schedule" />
         <activity android:name=".MainActivity">
